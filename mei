@@ -393,31 +393,31 @@ https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mp
 #EXTINF:-1 tvg-id="Soccer Channel" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="EURO 2024",EURO 5 🇮🇩
 https://testfunctionlive.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="TSN1 HD" tvg-logo="https://i.ibb.co/HYzgFbZ/tsn1.png", EURO 6 🇨🇦
+#EXTINF:-1 group-title="EURO 2024" tvg-id="TSN1 HD" tvg-logo="https://i.ibb.co/HYzgFbZ/tsn1.png", EURO 6 🇨🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dea83ced0141424e983e1afe463b4b0d:c00dd5dd17b0799aa4013f365a1393ce
 https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="TSN2 HD" tvg-logo="https://i.ibb.co/5r1nzp5/tsn2.png", EURO 7 🇨🇦
+#EXTINF:-1 group-title="EURO 2024" tvg-id="TSN2 HD" tvg-logo="https://i.ibb.co/5r1nzp5/tsn2.png", EURO 7 🇨🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
 https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="TSN3 HD" tvg-logo="https://i.ibb.co/r6FWmrW/tsn3.png", EURO 8 🇨🇦
+#EXTINF:-1 group-title="EURO 2024" tvg-id="TSN3 HD" tvg-logo="https://i.ibb.co/r6FWmrW/tsn3.png", EURO 8 🇨🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c0f378ad54e14a9c85a3d8c986d2a51f:5e1d040743ff78715e464ffb905e68a9
 https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="TSN4 HD" tvg-logo="https://i.ibb.co/PxGj1GQ/tsn4.png", EURO 9 🇨🇦
+#EXTINF:-1 group-title="EURO 2024" tvg-id="TSN4 HD" tvg-logo="https://i.ibb.co/PxGj1GQ/tsn4.png", EURO 9 🇨🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0a2efd11e0643c3a45d6f67d02f1a97:85bf4469003bd28f01ea4fefedd5a431
 https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="TSN5 HD" tvg-logo="https://i.ibb.co/F4dfsDM/tsn5.png", EURO 10 🇨🇦
+#EXTINF:-1 group-title="EURO 2024" tvg-id="TSN5 HD" tvg-logo="https://i.ibb.co/F4dfsDM/tsn5.png", EURO 10 🇨🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c

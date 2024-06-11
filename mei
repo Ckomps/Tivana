@@ -1067,7 +1067,9 @@ https://liveaneviadev.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerch
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-referrer=https://visionplus.id#EXTINF:-1 group-title="[LIVE EVENT]" tvg-id="" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/553/2023/11/20/WhatsApp-Image-2023-11-20-at-105628_2fb682bd-1739178916.jpg", 000. INDONESIA v PHILIPHINES (11 JUNI - WC 2026 QUALIFIERS)  🇮🇩
+https://2604399733.global.cdnfastest.com/live/70ae893119de45de8804b4d4aed9c0e4_720/index.m3u8
+
 #EXTINF:-1 tvg-name="SPO TV 1" tvg-logo="https://yt3.googleusercontent.com/W9hb266HaZ5dAiqeZe71KogajsDGwdZyAqN1bEgYrGbugT5RhVgFP0ntpgn5Ye53Lc9UHaLV5Dg=s900-c-k-c0x00ffffff-no-rj" group-title="SPORT INDONESIA",SPO TV 1 🇮🇩
 https://liveaneviadev.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
@@ -1076,6 +1078,10 @@ https://liveaneviadev.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#EXTINF:-1 group-title="[LIVE EVENT]" tvg-id="" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/553/2023/11/20/WhatsApp-Image-2023-11-20-at-105628_2fb682bd-1739178916.jpg", 000. INDONESIA v PHILIPHINES (11 JUNI - WC 2026 QUALIFIERS)  🇮🇩
+https://2604399733.global.cdnfastest.com/live/70ae893119de45de8804b4d4aed9c0e4_720/index.m3u8
+
 
 ============= TINJU =====================================
 

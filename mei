@@ -3011,31 +3011,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.m
 
 #EXTINF:-1 group-logo="https://i.imgur.com/9WeLoyH.png",
 
-========== 15 Juni ==============================================
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="[LIVE EVENT]" tvg-id="Sportstars 4"" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/wFC4AO0.png",001.Jerman vs Skotlandia - ( 15 Juni | 02.00 WIB ) 🇮🇩
-https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
-#EXTINF:-1 tvg-id="Sportstars 4 HD - [Channel 424].id" tvg-name="Sportstars 4 HD" group-title="[LIVE EVENT]" tvg-id="" tvg-logo="https://i.imgur.com/wFC4AO0.png", 002.Jerman vs Skotlandia - ( 15 Juni | 02.00 WIB ) 🇮🇩
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="IN127:SONY TEN 2" tvg-logo="https://i.imgur.com/wFC4AO0.png" group-title="[LIVE EVENT]", 003.Jerman vs Skotlandia - ( 15 Juni | 02.00 WIB )
-http://mohdtv.com:8880/voby5094/82723927/55282
-
-#EXTINF:-1 group-title="[LIVE EVENT]" tvg-id="sonyten2.in" tvg-logo="https://i.imgur.com/wFC4AO0.png",004.Jerman vs Skotlandia - ( 15 Juni | 02.00 WIB )
-https://colorsscreen.com/sliv/stream.php?id=sony-ten-2-hd&=.m3u8|Referer=https://colorsscreen.com/sliv/
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 group-title="[LIVE EVENT]" tvg-logo="https://i.imgur.com/wFC4AO0.png",005.Jerman vs Skotlandia - ( 15 Juni | 02.00 WIB ) 🇵🇹
-http://novared.pro:8080/12mPremiumEne7/xbegCfWvymGm/317896
 
 ==========
 

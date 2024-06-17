@@ -3014,76 +3014,30 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.m
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="[LIVE EVENT]" tvg-id="Sportstars 4"" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/baiYOS5.png",001.POLANDIA v BELANDA - ( 16 Juni | 20.00 WIB ) 🇮🇩
+#EXTINF:-1 group-title="[LIVE EVENT]" tvg-id="Sportstars 4"" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/l1XkeHA.png",EURO 2024 CHANNEL 1 BAHASA INDONESIA
 https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#EXTINF:-1 tvg-id="Sportstars 4 HD - [Channel 424].id" tvg-name="Sportstars 4 HD" group-title="[LIVE EVENT]" tvg-id="" tvg-logo="https://i.imgur.com/baiYOS5.png", 002.POLANDIA v BELANDA - ( 16 Juni | 20.00 WIB ) 🇮🇩
+#EXTINF:-1 tvg-id="Sportstars 4 HD - [Channel 424].id" tvg-name="Sportstars 4 HD" group-title="[LIVE EVENT]" tvg-id="" tvg-logo="https://i.imgur.com/O9Pcb8V.png", EURO 2024 CHANNEL 2 BAHASA INDONESIA
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="IN127:SONY TEN 2" tvg-logo="https://i.imgur.com/baiYOS5.png" group-title="[LIVE EVENT]", 003.POLANDIA v BELANDA - ( 16 Juni | 20.00 WIB )
-http://mohdtv.com:8880/voby5094/82723927/55282
-
-#EXTINF:-1 group-title="[LIVE EVENT]" tvg-id="sonyten2.in" tvg-logo="https://i.imgur.com/baiYOS5.png",004.POLANDIA v BELANDA - ( 16 Juni | 20.00 WIB )
-https://colorsscreen.com/sliv/stream.php?id=sony-ten-2-hd&=.m3u8|Referer=https://colorsscreen.com/sliv/
+#EXTINF:-1 tvg-id="Sky Sport Uno.it" tvg-logo="https://i.imgur.com/vxlgJah.png" group-title="[LIVE EVENT]", EURO 2024 CHANNEL 3 BAHASA ITALIA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
+https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 group-title="[LIVE EVENT]" tvg-logo="https://i.imgur.com/baiYOS5.png",005.POLANDIA v BELANDA - ( 16 Juni | 20.00 WIB ) 🇵🇹
+#EXTINF:-1 group-title="[LIVE EVENT]" tvg-logo="https://i.imgur.com/e0a0QtY.png", EURO 2024 CHANNEL 4 BAHASA PORTUGAL
 http://novared.pro:8080/12mPremiumEne7/xbegCfWvymGm/317896
 
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="[LIVE EVENT]" tvg-id="Sportstars 4"" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/f3zH2Nn.png",021.SLOVENIA v DERNMARK - ( 16 Juni | 23.00 WIB ) 🇮🇩
-https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
-#EXTINF:-1 tvg-id="Sportstars 4 HD - [Channel 424].id" tvg-name="Sportstars 4 HD" group-title="[LIVE EVENT]" tvg-id="" tvg-logo="https://i.imgur.com/f3zH2Nn.png", 022.SLOVENIA v DERNMARK - ( 16 Juni | 23.00 WIB ) 🇮🇩
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="IN127:SONY TEN 2" tvg-logo="https://i.imgur.com/f3zH2Nn.png" group-title="[LIVE EVENT]", 023.SLOVENIA v DERNMARK - ( 16 Juni | 23.00 WIB )
+#EXTINF:-1 tvg-id="" tvg-name="IN127:SONY TEN 2" tvg-logo="https://i.imgur.com/BXgMH3u.png" group-title="[LIVE EVENT]", EURO 2024 CHANNEL 5 BAHASA INGGRIS
 http://mohdtv.com:8880/voby5094/82723927/55282
-
-#EXTINF:-1 group-title="[LIVE EVENT]" tvg-id="sonyten2.in" tvg-logo="https://i.imgur.com/f3zH2Nn.png",024.SLOVENIA v DERNMARK - ( 16 Juni | 23.00 WIB )
-https://colorsscreen.com/sliv/stream.php?id=sony-ten-2-hd&=.m3u8|Referer=https://colorsscreen.com/sliv/
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 group-title="[LIVE EVENT]" tvg-logo="https://i.imgur.com/f3zH2Nn.png",025.SLOVENIA v DERNMARK - ( 16 Juni | 23.00 WIB ) 🇵🇹
-http://novared.pro:8080/12mPremiumEne7/xbegCfWvymGm/317896
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="[LIVE EVENT]" tvg-id="Sportstars 4"" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/oDZXufG.png",031.SERBIA v INGGRIS - ( 17 Juni | 02.00 WIB ) 🇮🇩
-https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
-#EXTINF:-1 tvg-id="Sportstars 4 HD - [Channel 424].id" tvg-name="Sportstars 4 HD" group-title="[LIVE EVENT]" tvg-id="" tvg-logo="https://i.imgur.com/oDZXufG.png", 032.SERBIA v INGGRIS - ( 17 Juni | 02.00 WIB ) 🇮🇩
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="IN127:SONY TEN 2" tvg-logo="https://i.imgur.com/oDZXufG.png" group-title="[LIVE EVENT]", 033.SERBIA v INGGRIS - ( 17 Juni | 02.00 WIB )
-http://mohdtv.com:8880/voby5094/82723927/55282
-
-#EXTINF:-1 group-title="[LIVE EVENT]" tvg-id="sonyten2.in" tvg-logo="https://i.imgur.com/oDZXufG.png",034.SERBIA v INGGRIS - ( 17 Juni | 02.00 WIB )
-https://colorsscreen.com/sliv/stream.php?id=sony-ten-2-hd&=.m3u8|Referer=https://colorsscreen.com/sliv/
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 group-title="[LIVE EVENT]" tvg-logo="https://i.imgur.com/oDZXufG.png",035.SERBIA v INGGRIS - ( 17 Juni | 02.00 WIB ) 🇵🇹
-http://novared.pro:8080/12mPremiumEne7/xbegCfWvymGm/317896
-
 
 
 

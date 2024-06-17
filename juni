@@ -3014,30 +3014,38 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.m
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="[LIVE EVENT]" tvg-id="Sportstars 4"" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/l1XkeHA.png",EURO 2024 CHANNEL 1 BAHASA INDONESIA
+#EXTINF:-1 group-title="[LIVE EVENT]" tvg-id="Sportstars 4"" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/ndKnLH7.png",CH 1 EURO 2024 Bhs. Indonesia
 https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#EXTINF:-1 tvg-id="Sportstars 4 HD - [Channel 424].id" tvg-name="Sportstars 4 HD" group-title="[LIVE EVENT]" tvg-id="" tvg-logo="https://i.imgur.com/O9Pcb8V.png", EURO 2024 CHANNEL 2 BAHASA INDONESIA
+#EXTINF:-1 tvg-id="Sportstars 4 HD - [Channel 424].id" tvg-name="Sportstars 4 HD" group-title="[LIVE EVENT]" tvg-id="" tvg-logo="https://i.imgur.com/ndKnLH7.png", CH 2 EURO 2024 Bhs. Indonesia
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
 
-#EXTINF:-1 tvg-id="Sky Sport Uno.it" tvg-logo="https://i.imgur.com/vxlgJah.png" group-title="[LIVE EVENT]", EURO 2024 CHANNEL 3 BAHASA ITALIA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
-https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9i4fEW8.png" group-title="[LIVE EVENT]",CH 3 EURO 2024 Bhs. Inggris
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 group-title="[LIVE EVENT]" tvg-logo="https://i.imgur.com/e0a0QtY.png", EURO 2024 CHANNEL 4 BAHASA PORTUGAL
-http://novared.pro:8080/12mPremiumEne7/xbegCfWvymGm/317896
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12585
 
-#EXTINF:-1 tvg-id="" tvg-name="IN127:SONY TEN 2" tvg-logo="https://i.imgur.com/BXgMH3u.png" group-title="[LIVE EVENT]", EURO 2024 CHANNEL 5 BAHASA INGGRIS
-http://mohdtv.com:8880/voby5094/82723927/55282
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9i4fEW8.png" group-title="[LIVE EVENT]",CH 4 EURO 2024 Bhs. Inggris
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12587
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9i4fEW8.png" group-title="[LIVE EVENT]",CH 5 EURO 2024 Bhs. Inggris
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12589
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9i4fEW8.png" group-title="[LIVE EVENT]",CH 6 EURO 2024 Bhs. Inggris
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12590
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9i4fEW8.png" group-title="[LIVE EVENT]",CH 7 EURO 2024 Bhs. Inggris
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12591
+
+
+
+
 
 
 
